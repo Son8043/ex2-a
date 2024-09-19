@@ -6,4 +6,8 @@ Son donghyun
 
 017293468
 
+<<<<<<< HEAD
 qwer1234
+=======
+1q2w3e4r
+>>>>>>> plan1
